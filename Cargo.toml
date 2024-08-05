@@ -1,0 +1,9 @@
+[package]
+name = "ssheet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.2"
+walkdir = "2.3.3"
+chrono = "0.4.38"
